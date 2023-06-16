@@ -3,9 +3,11 @@
 ﻿<p align="center"> Ｌｉｔｔｌｅ　ｆｒｏｎｔｅｎｄ　ｄｅｖｅｌｏｐｅｒ </p>
 
  About me: 
+<div style="display: flex; flex-direction: row;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=watsapp-app)](https://github.com/sony-vedom/watsapp-app)
-
+﻿<span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=watsapp-app)](https://github.com/sony-vedom/watsapp-app) </span>
+﻿<span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=Hotel_Check)](https://github.com/sony-vedom/Hotel_Check) </span>
+</div>
 
 <!--
 **sony-vedom/sony-vedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
