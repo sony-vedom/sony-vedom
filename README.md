@@ -3,7 +3,7 @@
 ﻿<p align="center"> Ｌｉｔｔｌｅ　ｆｒｏｎｔｅｎｄ　ｄｅｖｅｌｏｐｅｒ </p>
 
  About me: 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: space-around">
 
 ﻿<span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=Hotel_Check)](https://github.com/sony-vedom/Hotel_Check) </span>
 <span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=watsapp-app)](https://github.com/sony-vedom/watsapp-app) </span>
