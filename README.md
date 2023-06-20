@@ -2,11 +2,9 @@
 
 ﻿<p align="center"> ｆｒｏｎｔｅｎｄ　ｄｅｖｅｌｏｐｅｒ </p>
 
-
-<h2 align="center">Stack</h2>
-
 <div align="center">
- 
+ <h2 align="center"></h2>
+
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   
@@ -25,6 +23,8 @@
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<h2 align="center"></h2>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sony-vedom)](https://github.com/sony-vedom/github-readme-stats)
  
