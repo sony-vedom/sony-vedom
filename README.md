@@ -35,7 +35,6 @@
 <div align="center"> 
  
  <span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=watsapp-app)](https://github.com/sony-vedom/watsapp-app) </span>
- <span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=Hotel_Check)](https://github.com/sony-vedom/Hotel_Check) </span>
  
 </div>
 
