@@ -30,13 +30,6 @@
  
 </div>
 
-<h2 align="center">Favorite projects</h2>
- 
-<div align="center"> 
- 
- <span> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sony-vedom&repo=watsapp-app)](https://github.com/sony-vedom/watsapp-app) </span>
- 
-</div>
 
 <h2 align="start"> </h2>
 
