@@ -36,7 +36,7 @@
 
  <div align="center">
   
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sony-vedom) [<img src='https://cdn-icons-png.flaticon.com/256/6422/6422206.png' alt="telegram" height='40'>](https://t.me/s_sofya20) 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sony-vedom) [<img src='https://cdn-icons-png.flaticon.com/256/6422/6422206.png' alt="telegram" height='40'>](https://t.me/v_se20) 
   
   </div>
 
